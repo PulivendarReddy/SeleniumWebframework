@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T09:12:34Z" name="Keune" finished-at="2022-10-14T09:12:41Z" duration-ms="6582">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T09:12:34Z" name="Keune Test" finished-at="2022-10-14T09:12:41Z" duration-ms="6582">
+      <class name="Keune.TestCases.TC_001_HomeTests">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:Keune.TestCases.TC_001_HomeTests@352c1b98]" started-at="2022-10-14T09:12:35Z" name="setup" finished-at="2022-10-14T09:12:38Z" duration-ms="3123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomeTest()[pri:0, instance:Keune.TestCases.TC_001_HomeTests@352c1b98]" started-at="2022-10-14T09:12:38Z" name="HomeTest" finished-at="2022-10-14T09:12:41Z" duration-ms="3333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Keune.TestCases.TC_001_HomeTests@352c1b98]" started-at="2022-10-14T09:12:41Z" name="tearDown" finished-at="2022-10-14T09:12:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Keune.TestCases.TC_001_HomeTests -->
+    </test> <!-- Keune Test -->
+  </suite> <!-- Keune -->
+</testng-results>
